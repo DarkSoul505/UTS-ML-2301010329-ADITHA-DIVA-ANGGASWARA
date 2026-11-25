@@ -5,3 +5,4 @@
 - **Nama:** Aditha Diva Anggaswara
 - **Kelas:** XX  
 - **Mata kuliah / dosen:** Machine Learning / Dr. I Gede Totok Suryawan, S.Kom., M.T.
+- **AI yang di gunakan :** CHAT GPT
