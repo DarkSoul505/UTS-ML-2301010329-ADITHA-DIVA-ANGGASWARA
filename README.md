@@ -1,2 +1,7 @@
-# UTS-ML-2301010329-ADITHA-DIVA-ANGGASWARA
-Proyek UTS Machine Learning - Bike Sharing Regression
+# UTS Machine Learning — Bike Sharing Regression (Jalur B)
+
+## Identitas
+- **NIM:** 2301010320
+- **Nama:** Aditha Diva Anggaswara
+- **Kelas:** XX  
+- **Mata kuliah / dosen:** Machine Learning / Dr. I Gede Totok Suryawan, S.Kom., M.T.
